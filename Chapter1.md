@@ -1,5 +1,5 @@
 ## I. AI vs ML vs Deep Learning
-![comparison](./comparison.png)
+![comparison](./assets/comparison.png)
 
 **1. AI:**
     + Chess Player
